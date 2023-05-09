@@ -1,0 +1,5 @@
+forward 100
+turnleft 360
+turnleft 20
+turnleft 200
+turnright 20
